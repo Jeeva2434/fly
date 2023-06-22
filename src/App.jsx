@@ -15,9 +15,9 @@ function App() {
   return (
     <div className="App">
       <Navbar/>
-      {/* <Home/>
+      <Home/>
       <Search/>
-      <Support/>
+      {/*<Support/>
       <Info/>
       <Lounge/>
       <Travelers/>
